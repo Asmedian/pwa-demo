@@ -1,8 +1,10 @@
 const CACHE_NAME = 'pwa-demo-cache-v1';
 const FILES_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/style.css'
+  './',
+  './index.html',
+  './style.css',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 // Установка Service Worker
